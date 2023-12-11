@@ -10,7 +10,8 @@
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br/>
- 
+ ![Snake animation](https://github.com/GuiFxFarias/GuiFxFarias/blob/output/github-contribution-grid-snake.svg)
+
  
 <div> 
   <a href="https://www.instagram.com/gui_hfarias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
