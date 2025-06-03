@@ -18,9 +18,3 @@
 </div>
 
 ---
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GuiFxFarias/GuiFxFarias/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</div>
