@@ -1,18 +1,26 @@
+<div align="center">
+
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuiFxFarias&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuiFxFarias&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
+<br/>
+
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
 </a>
-  <br />
 
-  </div>
+<br/><br/>
 
-##
+<img src="https://github-profile-trophy.vercel.app/?username=GuiFxFarias&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=GuiFxFarias&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GuiFxFarias/GuiFxFarias/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</div>
